@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="btnOpe">Choose OPERATION</string>
+    <string name="btnPow">Get the Power of Result</string>
+    <string name="hintNum1">Enter First Number</string>
+    <string name="hintNum2">Enter Second Number</string>
+    <string name="tvTitle">CALCULATOR</string>
+    <string name="btnReturn">Return</string>
+    <string name="tvNum">Power: 0</string>
+
+</resources>
